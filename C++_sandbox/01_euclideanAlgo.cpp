@@ -1,4 +1,7 @@
-// Program that demonstrates the Euclidean algorithm
+/* Program that demonstrates the Euclidean algorithm
+ * Math reference: How to Find the Greatest Common Divisor by Using the Euclidian Algorithm
+ * https://youtu.be/JUzYl1TYMcU
+ */
 
 #include <iostream>
 using namespace std;
