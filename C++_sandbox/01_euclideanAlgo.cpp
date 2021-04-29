@@ -1,4 +1,4 @@
-// Program that demonstrates the Euclidean Algorithm
+// Program that demonstrates the Euclidean algorithm
 
 #include <iostream>
 using namespace std;
