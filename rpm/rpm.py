@@ -3,8 +3,8 @@
 import math
 import pandas as pd
 
-n1 = 89
-n2 = 18
+n1 = 1_000_000_000
+n2 = 5
 
 halving = [n1]
 while min(halving) > 1:
